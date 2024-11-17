@@ -22,7 +22,7 @@ In the 42 curriculum, the use of certain standard libraries is restricted. As a 
 
 Objectives of the Project
 
-	1.	Understanding Variadic Functions: The project introduces variadic functions, enabling handling of variable arguments (...) passed to ft_printf.
-	2.	Learning Format Specifiers: Implementing specific formatting options for various data types (e.g., %d for integers, %s for strings).
-	3.	Custom Base Conversions: Implementing functions to handle hexadecimal (%x/%X) and pointer (%p) formatting.
-	4.	Strict Norm Compliance: Writing clean, modular, and norm-compliant code that adheres to strict constraints.
+1. Understanding Variadic Functions: The project introduces variadic functions, enabling handling of variable arguments (...) passed to ft_printf.
+2. Learning Format Specifiers: Implementing specific formatting options for various data types (e.g., %d for integers, %s for strings).
+3. Custom Base Conversions: Implementing functions to handle hexadecimal (%x/%X) and pointer (%p) formatting.
+4. Strict Norm Compliance: Writing clean, modular, and norm-compliant code that adheres to strict constraints.
