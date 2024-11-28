@@ -16,7 +16,7 @@ ft_printf Project in 42
 
 The ft_printf project in the 42 curriculum is designed to recreate a simplified version of the standard printf function in C. This project involves implementing key formatting features of printf while adhering to specific coding norms and restrictions. The ultimate goal is to build a reliable and efficient custom version of printf that supports various format specifiers such as %c, %s, %d, %i, %u, %x, %X, %p, and %%.
 
-Why Recreate printf?
+Why Recreate printf ?
 
 In the 42 curriculum, the use of certain standard libraries is restricted. As a result, students need to implement custom alternatives for functions that are commonly used in programming. The ft_printf project serves as a foundation for mastering complex C programming concepts such as variadic functions, memory management, and formatted output. Moreover, this custom implementation becomes a reusable utility for future projects, ensuring compatibility with the coding standards of 42.
 
